@@ -2,11 +2,11 @@
 ### Current Data Analytics Student
 
 Goals for this Data Analytics course
-- know how to ecxtract and catalogue data
+- Know how to extract and catalogue data
 - Learn how to identify trends and relationships
-- enable organizations with predictions based on data
-- provide insights into why things happened and recommended courses of action
-- be able to visualize data
+- Enable organizations with predictions based on data
+- Provide insights into why things happened and recommend courses of action
+- Be able to visualize data
 
 https://www.markdownguide.org/basic-syntax/
 
